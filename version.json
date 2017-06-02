@@ -1,3 +1,7 @@
 {
-  'version': 0.1
+  'version': 0.1,
+  'print_status': True,
+  'speak_status': True,
+  'message': "Stephanie is outdated, kindly visit github.com/slapbot/stephanie to update the application."
+  'additional_information': []
 }
