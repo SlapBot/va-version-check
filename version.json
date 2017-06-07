@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.0",
   "print_status": 1,
   "speak_status": 1,
   "message": "Stephanie is outdated, kindly visit github.com/slapbot/stephanie to update the application to get access to all of the new functionality. You can turn this message to False in case you don't want to be reminded for update in config.ini file.",
